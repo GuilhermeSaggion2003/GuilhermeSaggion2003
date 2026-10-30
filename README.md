@@ -42,14 +42,6 @@ Possuo experiência prática no desenvolvimento de soluções end-to-end: desde 
 * 📊 **NLP & Modelagem Preditiva:** Pipelines de NLP para classificação textual com Transformers, BERTimbau e técnicas de Fine-Tuning (LoRA), além de modelagem estatística e econométrica aplicada.
 * 🛠️ **Engenharia de Software & Arquitetura de Sistemas:** Desenvolvimento de soluções com foco em escalabilidade, manutenibilidade e clean code. Experiência na concepção e entrega de aplicações ponta a ponta (Fullstack), modelagem relacional eficiente (PostgreSQL, SQLite) e integração de frontends modernos em React/TypeScript. Aplicação prática de princípios de gestão de projetos (PMBOK/RFP), análise de riscos e metodologias ágeis em ambientes corporativos e de consultoria.
 
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSaggion2003&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSaggion2003&layout=compact&theme=radical&langs_count=8" alt="Linguagens Mais Usadas" height="165" />
-</p>
 
 ---
 
