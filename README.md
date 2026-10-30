@@ -47,7 +47,7 @@ Possuo experiência prática no desenvolvimento de soluções end-to-end: desde 
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSaggion2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSaggion2003&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSaggion2003&layout=compact&theme=radical&langs_count=8" alt="Linguagens Mais Usadas" height="165" />
 </p>
 
